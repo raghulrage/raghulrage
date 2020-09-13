@@ -21,7 +21,7 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 
 ## 🤜🏻🤛🏻 Support Me
 
-[Buy me a coffee][6] or support my work if you want. 🙏🏻
+**Buy me a coffee** or support my work if you want. 🙏🏻
 
 
 ## &#x1f4c8; My GitHub Stats
