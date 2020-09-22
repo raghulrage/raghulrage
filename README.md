@@ -1,4 +1,4 @@
-(https://raghulrage.github.io/assets/img/hello.gif)
+![](https://raghulrage.github.io/assets/img/hello.gif)
 
 Hey 👋🏻,
 
