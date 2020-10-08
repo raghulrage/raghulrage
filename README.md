@@ -39,13 +39,10 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Face-Recognition&theme=chartreuse-dark)](https://github.com/raghulrage/Face-Recognition)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Python-programs&theme=chartreuse-dark)](https://github.com/raghulrage/Python-programs)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Car-Parking&theme=chartreuse-dark)](https://github.com/raghulrage/Car-Parking)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Attendance-management-system&theme=chartreuse-dark)](https://github.com/raghulrage/Attendance-management-system)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark)](https://github.com/raghulrage/Restaurant_billing_system)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Covid-19&theme=chartreuse-dark)](https://github.com/raghulrage/Covid-19)
