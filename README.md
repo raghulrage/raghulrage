@@ -1,6 +1,6 @@
 <img src="HelloWorld.gif" width="400" height="200" />
 
-Hey 👋🏻,
+Hey 👋🏻
 
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, PHP.
 
@@ -31,7 +31,21 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 </a>
 
 <a href="https://github.com/raghulrage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="raghulrage's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrage&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="raghulrage's GitHub Stats" />
 </a>
 
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Face-Recognition&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
 
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Python-programs&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
+
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Car-Parking&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
+
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
