@@ -52,3 +52,10 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 <a href="https://github.com/raghulrage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark" alt = "raghulrage's Repository">
 </a>
+
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Attendance-management-system&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
+<a href="https://github.com/raghulrage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Covid-19&theme=chartreuse-dark" alt = "raghulrage's Repository">
+</a>
