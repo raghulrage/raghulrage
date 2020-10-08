@@ -34,6 +34,9 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghulrage&show_icons=true&line_height=27&count_private=true&theme=chartreuse-dark" alt="raghulrage's GitHub Stats" />
 </a>
 
+
+## My Repositories
+
 <a href="https://github.com/raghulrage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Face-Recognition&theme=chartreuse-dark" alt = "raghulrage's Repository">
 </a>
