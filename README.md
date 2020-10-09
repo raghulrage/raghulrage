@@ -27,7 +27,7 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/raghulrage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrage&&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/raghulrage">
@@ -44,5 +44,5 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Car-Parking&theme=chartreuse-dark)](https://github.com/raghulrage/Car-Parking)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Attendance-management-system&theme=chartreuse-dark)](https://github.com/raghulrage/Attendance-management-system)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark)](https://github.com/raghulrage/Restaurant_billing_system)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark)](https://github.com/raghulrage/Restaurant_billing_system)	
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Covid-19&theme=chartreuse-dark)](https://github.com/raghulrage/Covid-19)
