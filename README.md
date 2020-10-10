@@ -27,7 +27,7 @@ I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/raghulrage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrage&&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raghulrage&layout=compact&langs_count=8&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/raghulrage">
