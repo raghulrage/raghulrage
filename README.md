@@ -1,6 +1,6 @@
 <img src="HelloWorld.gif" width="400" height="200" />
 
-Hey 👋🏻
+# 👋🏻 Hey! I'm Raghul Thangavel 
 
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, PHP.
 
