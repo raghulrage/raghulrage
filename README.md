@@ -1,6 +1,7 @@
 <img src="HelloWorld.gif" width="400" height="200" />
 
 # 👋🏻 Hey! I'm Raghul Thangavel 
+## 👨‍💻 Intern at [Ajira](https://www.ajira.tech/)
 
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, PHP.
 
@@ -16,7 +17,7 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
 ## 🌳 My Digital Garden
 
 You can find my works on [raghulrage.github.io](https://raghulrage.github.io/). I write about things
-I am familiar with including **Python**, **TypeScript**, **AngularJS**, and
+I am familiar with including **Python**, **PHP**, **TypeScript**, **AngularJS**, and
 **Spring**. 
 
 ## 🤜🏻🤛🏻 Support Me
