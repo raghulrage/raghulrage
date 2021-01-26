@@ -13,9 +13,9 @@
 <h2> 👨‍💻 Software Engineer Intern at <a href="https://www.ajira.tech/">Ajira Tech.</a><h2>
 
 <!-- About -->
-<p>
+<h3>
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native.
-</p>
+</h3>
 <br>
 <!-- Social Link -->
 <h2 align="center"> 
