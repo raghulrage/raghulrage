@@ -11,13 +11,11 @@
 
 <h1 style="color:#fcef88"> <b>👋🏻 Hey! I'm Raghul Thangavel </b></h1>
 <h2> 👨‍💻 Software Engineer Intern at <a href="https://www.ajira.tech/">Ajira Tech.</a><h2>
-<br>
 
 <!-- About -->
 
-`
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native.
-`
+
 
 <br>
 <!-- Social Link -->
@@ -80,7 +78,6 @@ Language and Tools
 🤜🏻🤛🏻 Support Me
 `
 </h2>
-<br>
 <h3 align="center">
 <b>Buy me a coffee or support my work if you want. 🙏🏻</b>
 <br>
