@@ -2,8 +2,8 @@
 <div style="background-color:#34103b; padding:5vh">
 
 <p align="center">
-<img src="HelloWorld.gif" width="700"/>
-<img src="robot.gif" width="250" />
+<img src="HelloWorld.gif" width="500"/>
+<img src="robot.gif" width="150" />
 <p>
 <br>
 <br>
@@ -14,9 +14,10 @@
 <br>
 
 <!-- About -->
-```
+
+`
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native.
-```
+`
 
 <br>
 <!-- Social Link -->
@@ -25,7 +26,6 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
 `📬 Get in touch
 `</h2>
 
-<hr> 
 <br>
 <p align="center">
 &nbsp; <a href="https://raghulrage.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png" width="50" /></a>
@@ -45,7 +45,6 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
 Language and Tools
 `
 </h2>
-<hr>
 <center>
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="50"/>
 <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" width="50"/>
@@ -81,7 +80,6 @@ Language and Tools
 🤜🏻🤛🏻 Support Me
 `
 </h2>
-<hr>
 <br>
 <h3 align="center">
 <b>Buy me a coffee or support my work if you want. 🙏🏻</b>
@@ -98,7 +96,6 @@ Language and Tools
 📉 My GitHub Stats
 `
 </h2>
-<hr>
 <br>
 <center>
 <a href="https://github.com/raghulrage">
@@ -111,11 +108,10 @@ Language and Tools
 <br>
 <br>
 
-<h3 style="color:red"> 
+<h3 style="color:red" align="center"> 
 Profile Visitors
 <br>
-<br>
-<img src="https://profile-counter.glitch.me/{raghulrage}/count.svg" alt="Raghul Thangavel :: Visitor's Count" />
+<img align="center" src="https://profile-counter.glitch.me/{raghulrage}/count.svg" alt="Raghul Thangavel :: Visitor's Count" />
 </h3>
 </center>
 <br>
@@ -126,7 +122,6 @@ Profile Visitors
 `
 👨‍💻 My Repositories
 `</h2>
-<hr>
 <br>
 <center>
 
