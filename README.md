@@ -13,10 +13,9 @@
 <h2> 👨‍💻 Software Engineer Intern at <a href="https://www.ajira.tech/">Ajira Tech.</a><h2>
 
 <!-- About -->
-
+<p>
 I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native.
-
-
+</p>
 <br>
 <!-- Social Link -->
 <h2 align="center"> 
@@ -43,7 +42,7 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
 Language and Tools
 `
 </h2>
-<center>
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="50"/>
 <img src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png" width="50"/>
 <img src="https://raghulrage.github.io/assets/img/opencv.png"  width="40"/>
@@ -67,7 +66,7 @@ Language and Tools
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="50"/>
 
-</center>
+</p>
 <br>
 <br>
 
