@@ -70,21 +70,6 @@ Language and Tools
 <br>
 <br>
 
-<!-- support -->
-<h2 align="center">
-
-`
-🤜🏻🤛🏻 Support Me
-`
-</h2>
-<h3 align="center">
-<b>Buy me a coffee or support my work if you want. 🙏🏻</b>
-<br>
-<a href="https://raghulrage.github.io"> raghulrage.github.io</a>
-</h3>
-<br>
-<br>
-
 <!-- Github Statistics -->
 <h2 align="center"> 
 
