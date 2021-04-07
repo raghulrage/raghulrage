@@ -71,7 +71,7 @@ Language and Tools
 <br>
 
 <!-- Github Statistics -->
-<h2 align="center"> 
+<!-- <h2 align="center"> 
 
 `
 📉 My GitHub Stats
@@ -87,7 +87,7 @@ Language and Tools
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghulrage&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="raghulrage's GitHub Stats" />
 </a>
 <br>
-<br>
+<br> -->
 
 <h3 style="color:red" align="center"> 
 Profile Visitors
