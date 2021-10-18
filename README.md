@@ -28,7 +28,7 @@ I am a Software Engineer from India 🇮🇳. I am interested in, write about an
 &nbsp; <a href="https://raghulrage.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/portfolio.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/raghul-thangavel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="50" /></a>
 &nbsp; <a href="https://twitter.com/raghul_rage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/raghul_limited_edition/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" width="50"/></a>  
+&nbsp; <a href="https://www.instagram.com/i.am_raghul/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" width="50"/></a>  
 &nbsp; <a href="mailto:raghulrage@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
