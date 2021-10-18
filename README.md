@@ -10,11 +10,11 @@
 <!-- Header Title -->
 
 <h1 style="color:#fcef88"> <b>👋🏻 Hey! I'm Raghul Thangavel </b></h1>
-<h2> 👨‍💻 Software Engineer Intern at <a href="https://www.ajira.tech/">Ajira Tech.</a><h2>
+<h2> 👨‍💻 Software Engineer at <a href="https://www.chargebee.com/">Chargebee</a>.<h2>
 
 <!-- About -->
 <h3>
-I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native.
+I am a Software Engineer from India 🇮🇳. I am interested in, write about and develop (open source) software solutions for and with Python, Flask, OpenCV, JavaScript, TypeScript, AngularJS, Spring Boot, React Native, Expo, Clojure.
 </h3>
 <br>
 <!-- Social Link -->
@@ -65,6 +65,7 @@ Language and Tools
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png"  width="50"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/1024px-Clojure_logo.svg.png" width="50" alt="Clojure"/>
 
 </p>
 <br>
@@ -115,5 +116,7 @@ Profile Visitors
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Restaurant_billing_system&theme=chartreuse-dark)](https://github.com/raghulrage/Restaurant_billing_system)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Covid-19&theme=chartreuse-dark)](https://github.com/raghulrage/Covid-19)
 </center>
+
+<center><a href="raghulrage.github.io/">©Raghul Thangavel</a></center>
 
 </div>
