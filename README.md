@@ -117,6 +117,8 @@ Profile Visitors
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raghulrage&repo=Covid-19&theme=chartreuse-dark)](https://github.com/raghulrage/Covid-19)
 </center>
 
-<center><a href="raghulrage.github.io/">©Raghul Thangavel</a></center>
+<p align="center">
+  <a href="raghulrage.github.io/">©Raghul Thangavel</a>
+</p>
 
 </div>
