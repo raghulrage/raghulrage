@@ -118,7 +118,7 @@ Profile Visitors
 </center>
 
 <p align="center">
-  <a href="raghulrage.github.io/">©Raghul Thangavel</a>
+  <a href="https://raghulrage.github.io/">©Raghul Thangavel</a>
 </p>
 
 </div>
